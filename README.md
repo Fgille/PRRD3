@@ -1,10 +1,10 @@
 # PRRD3 - INSTALLATION
 
-git clone https://github.com/fgille/PRRD3.git
+-- git clone https://github.com/fgille/PRRD3.git
 
-cd PRRD3
+-- cd PRRD3
 
-npm install
+-- npm install
 
-node server.js --ssl
+-- node server.js --ssl
 
